@@ -21,7 +21,7 @@ void main() async {
 
   await Supabase.initialize(
     url: 'https://bdolifxxpnpnonwavhum.supabase.co',
-    anonKey: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImJkb2xpZnh4cG5wbm9ud2F2aHVtIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzcyMDg2MjEsImV4cCI6MjA5Mjc4NDYyMX0.1zQG-ySb-DdUFpnmXirRkd-2xg3PqIa9A8EbvnLbFAY',
+    anonKey: 'Anon Key',
   );
 
   runApp(const MyApp());
